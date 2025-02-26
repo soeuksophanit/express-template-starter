@@ -1,0 +1,17 @@
+export const MSG = {
+  NOT_FOUND: "Resource not found",
+  INVALID_CREDENTIALS: "Invalid credentials",
+  INVALID_TOKEN: "Invalid token",
+  UNAUTHORIZED: "Unauthorized",
+  INTERNAL_SERVER_ERROR: "Internal server error",
+  INVALID_REQUEST: "Invalid request",
+  USER_ALREADY_EXISTS: "User already  exists",
+  USER_CREATED: "User created",
+  USER_NOT_FOUND: "User not found",
+  USER_UPDATED: "User updated",
+  USER_DELETED: "User deleted",
+  USER_LOGGED_IN: "User logged in",
+  USER_LOGGED_OUT: "User logged out",
+  USER_LOGGED_OUT_ALL: "User logged out from all devices",
+  USER_UPDATED_PASSWORD: "User updated",
+};
