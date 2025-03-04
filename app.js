@@ -17,7 +17,7 @@ app.use(cookieParser());
 
 // TODO : write your routes here
 
-// * End of API Endpoints
+// TODO : End of API Endpoints
 
 // * Middlwares for error handling
 app.use(errorMiddleware);
